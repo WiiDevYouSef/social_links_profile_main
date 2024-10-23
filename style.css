@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 8%);
+}
+.card_container {
+  text-align: center;
+  background-color: hsl(0, 0%, 12%);
+  font-family: "Inter", sans-serif;
+  width: 330px;
+  border-radius: 5%;
+}
+
+img {
+  border-radius: 50%;
+  width: 80px;
+  margin: 1rem;
+}
+h1{
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+}
+h3{
+    color: hsl(75, 94%, 57%);
+    font-weight: 400;
+    padding-bottom: 1rem;
+}
+p{
+    color: white;
+    margin: 10px;
+    font-size: 15px;
+}
+
+a {
+  display: block;
+  border-radius: 5%;
+  text-decoration: none;
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  padding: 10px 0px;
+  border-radius: 7px;
+  padding: 14px 16px;
+  margin: 15px 28px;
+  cursor: pointer;
+  font-weight: 600;
+}
+.Instagram{
+    margin-bottom: 2rem;
+}
+a:hover{
+    color: hsl(75, 94%, 57%);
+}
