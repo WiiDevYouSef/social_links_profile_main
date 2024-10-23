@@ -15,4 +15,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - CSS custom properties
 - Flexbox
 
+- #live demo : https://wiidevyousef.github.io/social_links_profile_main/
+
 "# social_links_profile_main" 
